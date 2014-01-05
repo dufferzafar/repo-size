@@ -2,8 +2,7 @@
 
 A Chrome extension to show the size of a Github repo.
 
-![Before](/before.jpg)
-![After](/after.jpg)
+![Screenshot](/screen.jpg)
 
 ## <a name="todo"></a>Stuff to do
 
