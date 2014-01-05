@@ -1,0 +1,12 @@
+{
+"name":"Repo Size",
+"description":"Show the size of a github repo.",
+"version":"0.7",
+"manifest_version":2,
+"content_scripts": [
+    {
+      "matches": ["http://github.com/*","https://github.com/*","https://www.github.com/*"],
+      "js": ["jquery-1.10.2.min.js", "script.js"]
+    }
+  ]
+}
