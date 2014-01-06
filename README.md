@@ -6,15 +6,16 @@ A Chrome extension to show the size of a Github repo.
 
 ## <a name="todo"></a>Stuff to do
 
-* Whatif the element doesn't exist?
-* Repo name from location.pathname?
+* Try doing it all without jQuery
 
-* 404 JSON Errors.
-
-* Fix some webresource errors.
 * Upload to Chrome WebStore
+* Port to Firefox
 
 ## <a name="log"></a>Changelog
+
+6/1/2014:
+
+* Simple updates
 
 5/1/2014:
 
