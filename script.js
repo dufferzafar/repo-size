@@ -7,7 +7,7 @@ if (theElem.length > 0) {
    var s = location.pathname.split('/');
    var repoName = s[1] + '/' + s[2];
 
-   console.log(repoName);
+   // console.log(repoName);
 
    // Download the JSON containing info.
    $.getJSON("https://api.github.com/repos/" + repoName)
