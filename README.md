@@ -1,27 +1,18 @@
 # Repo Size
 
-A Chrome extension to show the size of a Github Repo.
+A browser extension to show the size of a Github Repo. 
+
+Available for Chrome. Firefox version is being developed.
+
+Please note that the size displayed is of uncompressed Repo and NOT that of the Zip file you download. 
 
 ![Screenshot](/screen.jpg)
 
 ## <a name="install"></a>Installation Instructions
 
-Just download the repo zip, extract the contents into a folder and then load the unpacked exension from that folder.
-
-It takes $ 5.00 to be able to upload extensions on the chrome webstore
+Just download the repo zip, extract the contents and then load the unpacked exension.
 
 ## <a name="todo"></a>Stuff to do
 
-* Try doing it all without jQuery
-
 * Port to Firefox
-
-## <a name="log"></a>Changelog
-
-6/1/2014:
-
-* Simple updates
-
-5/1/2014:
-
-* Initial Version
+* Try doing it all without jQuery
