@@ -26,7 +26,6 @@ function AJAX_JSON_Req( url, button )
              else {
                 append = Math.round(size/1024) + " MB";
              }
-            alert(append);
             button.text = button.text.replace("ZIP", " - "+append);
         }
     }
