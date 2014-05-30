@@ -6,18 +6,17 @@ A userscript to show the size of a Github Repo.
 
 *Note: You'd need a Greasemonkey-ish addon for your browser to use the script.*
 
-## Screenshot
-
 ![Screenshot](/screen.jpg)
 
 ## Tested on
 
 Firefox 29.0.1 
- - Scriptish 0.1.11 
- <!-- - GreaseMonkey 1.15 -->
+ * Scriptish 0.1.11 
+
+<!-- GreaseMonkey 1.15 -->
 
 Chrome 35
- - Tampermonkey 3.7.48 
+ * Tampermonkey 3.7.48 
 
 <!-- Safari 5.1.7 NinjaKit  -->
 
@@ -35,7 +34,7 @@ A small bug was fixed and the userscript was made to work on FF, Chrome and Safa
 
 * **1.0.1**
 
-@pankajsharma converted the chrome plugin to a userscript that didn't use jQuery and worked on FF.
+[@pankajksharma](https://github.com/pankajksharma) converted the chrome plugin to a userscript that didn't use jQuery and worked on FF.
 
 * **1.0**
 
@@ -47,6 +46,6 @@ The plan was to write a native extension for Firefox too.
 
 ## Todo
 
-* Fix Issue #3
+* Fix [Issue #3](https://github.com/dufferzafar/repo-size/issues/3)
 
 * Support branches other than master (use regex to find the current branch.)
